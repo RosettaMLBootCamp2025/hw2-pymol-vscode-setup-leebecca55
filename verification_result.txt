@@ -1,0 +1,31 @@
+======================================================================
+RosettaML Bootcamp 2025 - HW2 Verification Results
+======================================================================
+
+Student Name: Rebecca Lee
+Timestamp: 2025-10-28T15:34:30.114068
+Python Version: 3.9.6 (default, May  7 2023, 23:32:45) 
+[Clang 14.0.3 (clang-1403.0.22.14.1)]
+Platform: macOS-13.7.8-x86_64-i386-64bit
+
+Installation Checks:
+----------------------------------------------------------------------
+
+PYMOL:
+  Installed: True
+  Version: PyMOL 2.4.1 Incentive Product (a5a862d173), 2020-09-14
+
+VSCODE:
+  Installed: True
+  Version: 1.102.2
+c306e94f98122556ca081f527b466015e1bc37b0
+x64
+
+File Checks:
+----------------------------------------------------------------------
+  1ubq_session.pse: Present
+  1ubq_visualization.png: Present
+
+======================================================================
+STATUS: ALL CHECKS PASSED ✓
+======================================================================
